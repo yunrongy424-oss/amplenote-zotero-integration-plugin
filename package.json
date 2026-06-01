@@ -1,0 +1,18 @@
+{
+  "name": "amplenote-zotero-integration-plugin",
+  "version": "0.1.0",
+  "description": "Amplenote plugin bounty implementation for Zotero citation and note export workflows.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build-plugin-note.mjs"
+  },
+  "keywords": [
+    "amplenote",
+    "plugin",
+    "zotero",
+    "citations",
+    "research"
+  ],
+  "license": "MIT"
+}
